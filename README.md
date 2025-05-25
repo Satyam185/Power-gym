@@ -1,6 +1,6 @@
 
-# gym
-"# Power-gym" 
+# Power_gym
+ 
 #Landing page
 <img width="1470" alt="image can't load" src="src\components\Screenshot 2025-05-25 164110.png">
 #Classes page
