@@ -14,10 +14,10 @@ export default function Contact() {
     setResult("Sending....");
 
     const formData = new FormData(form.current);
-    formData.append("access_key", "fefdc499-7e6f-4ddc-9432-25faea292ec6");
+    formData.append("access_key", "enter_your_access_key_here");
 
     try {
-      const response = await fetch("https://api.web3forms.com/submit", {
+      const response = await fetch("enter_your_apiwebform_link_here", {
         method: "POST",
         body: formData,
       });
