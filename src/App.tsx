@@ -24,7 +24,7 @@ function App() {
             <Route path="/classes" element={<Classes />} />
             <Route path="/membership" element={<Membership />} />
             <Route path="/contact" element={<Contact />} />
-            
+            <Route path="/join" element={<Join />} />
             <Route path="/exercises" element={<Exercises />} />
             <Route path="/BMICalculator" element={<BMICalculator/>} />
           </Routes>
