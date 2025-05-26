@@ -28,7 +28,7 @@ export default function Navbar() {
             </Link>
           </div>
           
-          {/* Desktop Navigation */}
+          {/* Desktop Navigation*/}
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-4">
               {navigation.map((item) => (
