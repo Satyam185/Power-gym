@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Play, Pause, RotateCcw, Heart } from 'lucide-react';
 
+
 type Exercise = {
   id: number;
   name: string;
