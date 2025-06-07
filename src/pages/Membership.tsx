@@ -2,6 +2,7 @@ import { Check } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 
+
 const plans = [
   {
     name: 'Basic',
